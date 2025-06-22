@@ -1,0 +1,4 @@
+baseURL = 'https://www.phasebash.com/'
+languageCode = 'en-us'
+title = 'phasebash.com'
+theme = 'book'
